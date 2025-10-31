@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "stratified",
+  "version": "${version}",
+  "name": "stratified",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/stratified/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.btwr.stratified.client.StratifiedModDataGenerator"
+    ],
+    "client": [
+      "org.btwr.stratified.client.StratifiedModClient"
+    ],
+    "main": [
+      "org.btwr.stratified.StratifiedMod"
+    ]
+  },
+  "mixins": [
+    "stratified.mixins.json",
+    {
+      "config": "stratified.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stratified:block/stone_strata_3",
+    "side": "stratified:block/stone_strata_3"
+  }
+}
