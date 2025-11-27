@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      {"model": "stratified:block/ore/deepslate_iron_ore"}
+    ]
+  }
+}

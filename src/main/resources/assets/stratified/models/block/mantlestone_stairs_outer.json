@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "stratified:block/mantlestone",
+    "side": "stratified:block/mantlestone",
+    "top": "stratified:block/mantlestone"
+  }
+}

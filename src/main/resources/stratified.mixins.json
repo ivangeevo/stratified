@@ -4,6 +4,7 @@
   "package": "org.btwr.stratified.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "BlocksMixin"
   ],
   "injectors": {
     "defaultRequire": 1

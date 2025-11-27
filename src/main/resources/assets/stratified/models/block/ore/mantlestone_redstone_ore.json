@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "stratified:block/mantlestone_redstone_ore"
+  }
+}

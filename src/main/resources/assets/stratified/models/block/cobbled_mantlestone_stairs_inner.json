@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "stratified:block/cobbled_mantlestone",
+    "side": "stratified:block/cobbled_mantlestone",
+    "top": "stratified:block/cobbled_mantlestone"
+  }
+}

@@ -2,3 +2,5 @@
 /.gradle
 /build
 /run
+/libs
+/src/main/generated/.cache

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "stratified:block/mantlestone_redstone_ore"
+    }
+  }
+}

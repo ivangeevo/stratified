@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stratified:block/mantlestone_gold_ore_top",
+    "side": "stratified:block/mantlestone_gold_ore"
+  }
+}
