@@ -4,7 +4,10 @@
   "package": "org.btwr.stratified.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "BlocksMixin"
+    "AbstractBlockMixin",
+    "ChunkSerializerMixin",
+    "PlayerEntityMixin",
+    "WorldChunkMixin"
   ],
   "injectors": {
     "defaultRequire": 1

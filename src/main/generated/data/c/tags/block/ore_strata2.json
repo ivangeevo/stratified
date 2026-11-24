@@ -1,3 +1,12 @@
 {
-  "values": []
+  "values": [
+    "stratified:mantlestone_coal_ore",
+    "stratified:mantlestone_copper_ore",
+    "stratified:mantlestone_iron_ore",
+    "stratified:mantlestone_gold_ore",
+    "stratified:mantlestone_lapis_ore",
+    "stratified:mantlestone_redstone_ore",
+    "stratified:mantlestone_diamond_ore",
+    "stratified:mantlestone_emerald_ore"
+  ]
 }

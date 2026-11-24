@@ -1,0 +1,21 @@
+{
+  "block.stratified.cobbled_mantlestone": "Cobbled Mantlestone",
+  "block.stratified.cobbled_mantlestone_slab": "Cobbled Mantlestone Slab",
+  "block.stratified.cobbled_mantlestone_stairs": "Cobbled Mantlestone Stairs",
+  "block.stratified.cobbled_mantlestone_wall": "Cobbled Mantlestone Wall",
+  "block.stratified.mantlestone": "Mantlestone",
+  "block.stratified.mantlestone_button": "Mantlestone Button",
+  "block.stratified.mantlestone_coal_ore": "Mantlestone Coal Ore",
+  "block.stratified.mantlestone_copper_ore": "Mantlestone Copper Ore",
+  "block.stratified.mantlestone_diamond_ore": "Mantlestone Diamond Ore",
+  "block.stratified.mantlestone_emerald_ore": "Mantlestone Emerald Ore",
+  "block.stratified.mantlestone_gold_ore": "Mantlestone Gold Ore",
+  "block.stratified.mantlestone_iron_ore": "Mantlestone Iron Ore",
+  "block.stratified.mantlestone_lapis_ore": "Mantlestone Lapis Lazuli Ore",
+  "block.stratified.mantlestone_pressure_plate": "Mantlestone Pressure Plate",
+  "block.stratified.mantlestone_redstone_ore": "Mantlestone Redstone Ore",
+  "block.stratified.mantlestone_slab": "Mantlestone Slab",
+  "block.stratified.mantlestone_stairs": "Mantlestone Stairs",
+  "generator.stratified.bedrock_sheets": "Bedrock Sheets",
+  "generator.stratified.bedrock_sheets.info": "Bedrock sheets below Y 16 that must be mined around, with a near-solid floor sheet sealing the deepest layer"
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stratified:block/mantlestone"
+      },
+      {
+        "model": "stratified:block/mantlestone_mirrored"
+      },
+      {
+        "model": "stratified:block/mantlestone",
+        "y": 180
+      },
+      {
+        "model": "stratified:block/mantlestone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cobbled_mantlestone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "stratified:cobbled_mantlestone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stratified:mantlestone_from_smelting_cobbled_mantlestone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cobbled_mantlestone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stratified:mantlestone_from_smelting_cobbled_mantlestone"
+    ]
+  }
+}

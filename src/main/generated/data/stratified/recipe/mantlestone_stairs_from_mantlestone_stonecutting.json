@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stratified:mantlestone"
+  },
+  "result": {
+    "count": 1,
+    "id": "stratified:mantlestone_stairs"
+  }
+}

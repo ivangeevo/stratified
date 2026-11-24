@@ -1,0 +1,4 @@
+accessWidener v2 named
+
+# Lets BedrockSheetsChunkGenerator reuse the overworld noise generator
+extendable class net/minecraft/world/gen/chunk/NoiseChunkGenerator

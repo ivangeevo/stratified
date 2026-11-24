@@ -1,0 +1,14 @@
+{
+  "values": [
+    "stratified:mantlestone",
+    "stratified:mantlestone_stairs",
+    "stratified:mantlestone_slab",
+    "stratified:mantlestone_pressure_plate",
+    "stratified:mantlestone_button",
+    "stratified:cobbled_mantlestone",
+    "stratified:cobbled_mantlestone_stairs",
+    "stratified:cobbled_mantlestone_slab",
+    "stratified:cobbled_mantlestone_wall",
+    "#c:ore_strata2"
+  ]
+}

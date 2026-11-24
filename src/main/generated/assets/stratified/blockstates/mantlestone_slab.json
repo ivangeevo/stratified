@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stratified:block/mantlestone_slab"
+    },
+    "type=double": {
+      "model": "stratified:block/mantlestone"
+    },
+    "type=top": {
+      "model": "stratified:block/mantlestone_slab_top"
+    }
+  }
+}

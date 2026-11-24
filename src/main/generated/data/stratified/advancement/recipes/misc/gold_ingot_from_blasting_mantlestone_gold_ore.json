@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mantlestone_gold_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "stratified:mantlestone_gold_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stratified:gold_ingot_from_blasting_mantlestone_gold_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mantlestone_gold_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stratified:gold_ingot_from_blasting_mantlestone_gold_ore"
+    ]
+  }
+}

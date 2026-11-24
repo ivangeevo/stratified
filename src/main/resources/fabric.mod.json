@@ -16,6 +16,7 @@
     "client": ["org.btwr.stratified.StratifiedModClient"],
     "main": ["org.btwr.stratified.StratifiedMod"]
   },
+  "accessWidener": "stratified.accesswidener",
   "mixins": [
     "stratified.mixins.json",
     {

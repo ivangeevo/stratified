@@ -2,8 +2,9 @@ package org.btwr.stratified;
 
 import net.fabricmc.api.ModInitializer;
 import org.btwr.stratified.block.ModBlocks;
-import org.btwr.stratified.event.ModEvents;
-import org.btwr.stratified.event.ModServerEvents;
+import org.btwr.stratified.strata.PlacedBlocks;
+import org.btwr.stratified.strata.StrataEvents;
+import org.btwr.stratified.world.BedrockSheetsChunkGenerator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,7 +15,8 @@ public class StratifiedMod implements ModInitializer {
     @Override
     public void onInitialize() {
         ModBlocks.register();
-        ModEvents.register();
-        ModServerEvents.register();
+        BedrockSheetsChunkGenerator.register();
+        PlacedBlocks.register();
+        StrataEvents.register();
     }
 }

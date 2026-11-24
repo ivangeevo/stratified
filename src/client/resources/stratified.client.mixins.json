@@ -4,6 +4,9 @@
   "package": "org.btwr.stratified.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
+    "BlockXrayMixin",
+    "XrayAmbientOcclusionMixin",
+    "XrayLightingMixin"
   ],
   "injectors": {
     "defaultRequire": 1
